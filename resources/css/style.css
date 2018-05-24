@@ -1,1 +1,28 @@
-'ello world
+body {
+  text-align: center;
+  background-color: black;
+  font-family: Verdana;
+}
+h1, h2 {
+  color: white;
+}
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+p {
+  color: gray;
+  font-size: 21px;
+}
+p.copyright {
+  color: grey;
+  text-align: right;
+}
